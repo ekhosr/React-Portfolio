@@ -1,0 +1,31 @@
+
+.project{
+    border:4px solid #030444;
+    background-color:#d5e9602e;
+    margin:20px;
+    width:40%;
+    position:relative; 
+    flex: auto;  
+}
+
+.project:hover{
+    cursor:pointer;
+}
+.projectImg{
+    width:100%;
+    opacity:.2;
+}
+.projectImg:hover{
+    opacity:1;
+}
+.projectOverlay{
+    position:absolute;
+    bottom:5%;
+    padding:5px;
+    background-color:#04374e;
+    color:#4785e0;
+    
+}
+.projectOverlay>h2{
+    font-size:2vw;
+}
