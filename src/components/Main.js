@@ -42,4 +42,4 @@ function Main({page}){
     }
     
 }
-export default Main
+export default Main;

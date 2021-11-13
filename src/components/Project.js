@@ -14,4 +14,4 @@ function Project(props){
         </div>
     );
 }
-export default Project
+export default Project;

@@ -1,5 +1,4 @@
 import React from 'react';
-import reactDom from 'react-dom';
 
 import resume from '../images/resume.pdf';
 
@@ -43,4 +42,4 @@ function Resume(){
         
     );
 }
-export default Resume
+export default Resume;

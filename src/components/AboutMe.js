@@ -4,7 +4,7 @@ import profile from '../images/profilePhoto.jpg'
 const styles ={
     AboutMeStyle: {
       paddingTop:'20px',
-      color:'#F3F4ED',
+      color:'#000000',
       lineHeight: '2'
       
     },
@@ -24,4 +24,4 @@ function AboutMe(){
         
     );
 }
-export default AboutMe
+export default AboutMe;
